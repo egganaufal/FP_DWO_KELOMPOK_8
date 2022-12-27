@@ -17,7 +17,7 @@ Anggota
 
 ### Langkah-langkah Menggunakan Aplikasi
 
-- Install Xampp : [MySql](https://www.apachefriends.org/download.html) (Sebagai Database server dan Management).
+- Install [Xampp](https://www.apachefriends.org/download.html) (Sebagai Database server dan Management).
 - Download & Extract File FP_DWO_KELOMPOK_8.zip pada folder htdocs XAMPP (xampp/htdocs).
 - Jalankan Xampp control panel.
 - Start Apache dan MySql server.
